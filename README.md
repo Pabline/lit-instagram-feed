@@ -3,6 +3,8 @@ A component to show your instagram feed in a easy way. Just Provide your acces_t
 
 This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
+## Temporarily out of service. Instagram changed his API. Working on a solution.
+
 ## Installation
 ```bash
 npm i lit-instagram-feed
